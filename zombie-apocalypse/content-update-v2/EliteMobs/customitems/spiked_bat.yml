@@ -1,0 +1,12 @@
+isEnabled: true
+material: IRON_SWORD
+name: '&4Spiked Baseball Bat'
+lore:
+- '&7An improvised anti-infected weapon.'
+enchantments:
+- SHARPNESS,3
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false
