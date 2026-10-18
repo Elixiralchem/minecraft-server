@@ -1,0 +1,12 @@
+isEnabled: true
+material: STONE_AXE
+name: '&7Sledgehammer'
+lore:
+- '&7A slow, heavy weapon for desperate survivors.'
+enchantments:
+- SHARPNESS,3
+- UNBREAKING,1
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false
