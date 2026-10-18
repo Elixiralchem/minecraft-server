@@ -1,0 +1,15 @@
+isEnabled: true
+entityType: ZOMBIE
+name: <g:#567D46:#B8D99C>The Plague Carrier</g>
+level: 18
+powers:
+- corpse.lua
+followDistance: 40
+helmet: LEATHER_HELMET
+chestplate: LEATHER_CHESTPLATE
+leggings: LEATHER_LEGGINGS
+boots: LEATHER_BOOTS
+onSpawnBlockStates: []
+onRemoveBlockStates: []
+bossType: NORMAL
+classLoot: true
