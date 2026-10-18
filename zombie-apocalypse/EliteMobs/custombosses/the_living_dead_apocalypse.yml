@@ -1,0 +1,16 @@
+isEnabled: true
+entityType: HUSK
+name: <g:#777777:#D9D9D9>The Living Dead</g>
+level: 15
+powers:
+- corpse.lua
+- ground_pound.yml
+followDistance: 48
+helmet: IRON_HELMET
+chestplate: CHAINMAIL_CHESTPLATE
+leggings: CHAINMAIL_LEGGINGS
+boots: LEATHER_BOOTS
+onSpawnBlockStates: []
+onRemoveBlockStates: []
+bossType: NORMAL
+classLoot: true
