@@ -14,8 +14,8 @@ This is an additive configuration pack for the existing server. It does not repl
 
 1. Back up the live server's `plugins/EliteMobs/` directory.
 2. Copy the YAML files from `EliteMobs/custombosses/` into the matching folder in the live `plugins/EliteMobs/custombosses/`.
-3. Copy the YAML files from `EliteMobs/customitems/` into the matching folder in `plugins/EliteMobs/customitems/`.
-4. Do **not** overwrite your existing files with the same name unless you have compared them first. These files use new names to avoid collisions.
+3. Copy the YAML files from `EliteMobs/customitems/` into the matching folder in the live `plugins/EliteMobs/customitems/`.
+4. Do **not** overwrite your existing files with the same name unless you have compared them first.
 5. Restart the server (preferred for a first install) and inspect the console for EliteMobs YAML/config errors.
 
 ## Test
