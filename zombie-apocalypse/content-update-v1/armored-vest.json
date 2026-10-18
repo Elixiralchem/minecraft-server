@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_chestplate",
+          "functions": [
+            {"function": "minecraft:set_name", "name": {"text": "Armoured Scavenger Vest", "color": "gold", "italic": false}},
+            {"function": "minecraft:set_lore", "mode": "replace_all", "lore": [{"text": "Reinforced with salvaged metal plates.", "color": "gray", "italic": false}]},
+            {"function": "minecraft:set_enchantments", "enchantments": {"minecraft:protection": 2, "minecraft:unbreaking": 2}},
+            {"function": "minecraft:set_components", "components": {"minecraft:item_model": "zs:armored_vest"}}
+          ]
+        }
+      ]
+    }
+  ]
+}
