@@ -1,0 +1,12 @@
+isEnabled: true
+material: IRON_AXE
+name: '&2Field Hatchet'
+lore:
+- '&7A compact survival axe for close combat.'
+enchantments:
+- SHARPNESS,2
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

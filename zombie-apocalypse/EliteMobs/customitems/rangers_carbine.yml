@@ -1,0 +1,13 @@
+isEnabled: true
+material: CROSSBOW
+name: '&2Ranger''s Carbine'
+lore:
+- '&7A rugged field weapon for the long road.'
+- '&8Uses ordinary arrows; keep your distance.'
+enchantments:
+- QUICK_CHARGE,1
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

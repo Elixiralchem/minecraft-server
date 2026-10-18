@@ -1,0 +1,16 @@
+isEnabled: true
+entityType: HUSK
+name: <g:#8B4513:#D2691E>The Brute</g>
+level: 20
+powers:
+- ground_pound.yml
+followDistance: 36
+helmet: IRON_HELMET
+chestplate: IRON_CHESTPLATE
+leggings: CHAINMAIL_LEGGINGS
+boots: IRON_BOOTS
+mainHand: IRON_AXE
+onSpawnBlockStates: []
+onRemoveBlockStates: []
+bossType: NORMAL
+classLoot: true

@@ -1,0 +1,11 @@
+isEnabled: true
+material: TRIPWIRE_HOOK
+name: '&7Lockpick Set'
+lore:
+- '&7Fine tools for scavenging and infiltration.'
+enchantments:
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

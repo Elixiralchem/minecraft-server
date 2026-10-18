@@ -1,0 +1,13 @@
+isEnabled: true
+material: CHAINMAIL_CHESTPLATE
+name: '&6Reinforced Field Vest'
+lore:
+- '&7A salvaged vest reinforced with scavenged plates.'
+- '&8Light protection for dangerous runs.'
+enchantments:
+- PROTECTION,2
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

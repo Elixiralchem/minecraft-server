@@ -1,0 +1,11 @@
+isEnabled: true
+material: SHEARS
+name: '&cHeavy Bolt Cutters'
+lore:
+- '&7Heavy-duty cutters from a maintenance depot.'
+enchantments:
+- UNBREAKING,3
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

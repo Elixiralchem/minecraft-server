@@ -1,0 +1,11 @@
+isEnabled: true
+material: HONEY_BOTTLE
+name: '&aAntibiotic Dose'
+lore:
+- '&7A scarce emergency medical supply.'
+- '&8Placeholder item: no cure effect is attached.'
+enchantments: []
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

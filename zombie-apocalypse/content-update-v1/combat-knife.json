@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_sword",
+          "functions": [
+            {"function": "minecraft:set_name", "name": {"text": "Combat Knife", "color": "gray", "italic": false}},
+            {"function": "minecraft:set_lore", "mode": "replace_all", "lore": [{"text": "A compact blade for close encounters.", "color": "gray", "italic": false}, {"text": "Quiet, quick, and easy to carry.", "color": "dark_gray", "italic": false}]},
+            {"function": "minecraft:set_enchantments", "enchantments": {"minecraft:sharpness": 2, "minecraft:unbreaking": 2}},
+            {"function": "minecraft:set_components", "components": {"minecraft:item_model": "zs:combat_knife"}}
+          ]
+        }
+      ]
+    }
+  ]
+}

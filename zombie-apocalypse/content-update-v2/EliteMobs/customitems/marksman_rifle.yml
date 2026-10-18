@@ -1,0 +1,13 @@
+isEnabled: true
+material: CROSSBOW
+name: '&bMarksman Rifle'
+lore:
+- '&7A precision field weapon; EliteMobs reward version.'
+enchantments:
+- QUICK_CHARGE,2
+- PIERCING,3
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

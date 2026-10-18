@@ -1,0 +1,12 @@
+isEnabled: true
+material: IRON_SWORD
+name: '&6Emergency Crowbar'
+lore:
+- '&7A heavy pry bar repurposed for close combat.'
+enchantments:
+- SHARPNESS,2
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

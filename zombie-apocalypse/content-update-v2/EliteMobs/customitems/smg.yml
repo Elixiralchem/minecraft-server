@@ -1,0 +1,13 @@
+isEnabled: true
+material: CROSSBOW
+name: '&6Compact SMG'
+lore:
+- '&7A rapid-fire style weapon; EliteMobs reward version.'
+enchantments:
+- QUICK_CHARGE,3
+- MULTISHOT,1
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

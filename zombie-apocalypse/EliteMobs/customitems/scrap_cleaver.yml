@@ -1,0 +1,13 @@
+isEnabled: true
+material: IRON_SWORD
+name: '&7Scrap Cleaver'
+lore:
+- '&8A brutal blade pieced together from'
+- '&8salvaged metal and a wrapped grip.'
+enchantments:
+- SHARPNESS,2
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false

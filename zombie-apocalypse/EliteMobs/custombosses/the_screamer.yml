@@ -1,0 +1,15 @@
+isEnabled: true
+entityType: ZOMBIE
+name: <g:#B8E0D2:#F5F5F5>The Screamer</g>
+level: 12
+powers:
+- zombie_friends.lua
+followDistance: 40
+helmet: CHAINMAIL_HELMET
+chestplate: LEATHER_CHESTPLATE
+leggings: LEATHER_LEGGINGS
+boots: LEATHER_BOOTS
+onSpawnBlockStates: []
+onRemoveBlockStates: []
+bossType: NORMAL
+classLoot: true
