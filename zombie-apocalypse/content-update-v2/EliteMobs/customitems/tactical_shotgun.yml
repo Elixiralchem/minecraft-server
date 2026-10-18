@@ -1,0 +1,13 @@
+isEnabled: true
+material: CROSSBOW
+name: '&4Tactical Shotgun'
+lore:
+- '&7A close-range heavy weapon; EliteMobs reward version.'
+enchantments:
+- QUICK_CHARGE,3
+- MULTISHOT,1
+- UNBREAKING,2
+potionEffects: []
+scalability: FIXED
+itemType: UNIQUE
+soulbound: false
